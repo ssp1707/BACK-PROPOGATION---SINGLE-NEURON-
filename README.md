@@ -1,4 +1,6 @@
-# BACK-PROPOGATION---SINGLE-NEURON
+## Ex No: 04
+## Date: 8.04.2022
+# <p align="center"> BACK-PROPOGATION---SINGLE-NEURON</p>
 ## AIM:
 
 To write a python program to perform Back Propagation with Single Neuron.
@@ -56,9 +58,6 @@ print(a)
 print(" ")
 print(w)
 ```
-
-
-
 
 ## OUTPUT:
 ![BACK PROPAGATION SINGLE NEURON](https://user-images.githubusercontent.com/75234965/166243493-4b9322d6-8ca6-44ca-b2f0-ba64371ee4eb.jpg)
